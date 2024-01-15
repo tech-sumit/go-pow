@@ -1,0 +1,16 @@
+# Log files.
+**/*.log
+
+# Go specific.
+bin
+dist
+vendor
+**/coverage.out
+**/coverage.html
+report.json
+go.work.sum
+
+# Misc.
+.DS_Store
+tmp
+.idea
